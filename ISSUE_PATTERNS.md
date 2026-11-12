@@ -1,0 +1,1 @@
+环境问题、Scoreboard 问题、典型 UVM_ERROR 的历史根因
